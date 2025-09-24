@@ -1,0 +1,5 @@
+{
+  "name": "Explainable AI Financial Coach",
+  "description": "An AI assistant for small business owners that delivers high-stakes financial advice with transparency and control, focusing on cash flow management. This chatbot surfaces AI model inputs, confidence levels, and provides user-control options to build a trustable consumer banking experience.",
+  "requestFramePermissions": []
+}
